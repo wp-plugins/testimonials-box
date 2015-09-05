@@ -14,6 +14,10 @@ An easy way to add testimonials to your Wordpress site.
 
 An easy way to add testimonials to your Wordpress site.
 
+###Quick Start Guide
+
+* [Testimonials Box quick start guide at thinklandingpages.com] (http://www.thinklandingpages.com/testimonials-box-plugin/)
+
 ###What you get when you use the Testimonials Box plugin
 
 *  Place a testimonial with a simple shortcode [testimonial_box id="%postId%"]
@@ -26,6 +30,10 @@ An easy way to add testimonials to your Wordpress site.
 ###Add Testimonial to any post or page
 
 Whether you are writing a post about your company or another, you can include a well formatted testimonial.
+
+###Why add testimonials
+
+Testimonials serve to reinforce that you are trustworthy.  Testimonials work because it is an independent, third party attesting to the quality of your service or product
 
 ###Quick Start Guide
 
